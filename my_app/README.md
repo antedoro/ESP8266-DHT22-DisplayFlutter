@@ -1,16 +1,14 @@
-# my_app
+# ESP8266 DHT22 Temperature and Humidity Monitor with SSD1306 OLED Display and Flutter APP
 
-A new Flutter project.
+This project demonstrates how to read temperature and humidity data from a DHT22 sensor using an ESP8266 microcontroller and display the results on an SSD1306 OLED display and using a Flutter app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This folder  is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Go with Terminal app inside my_app folder and run flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+cd my_app
+flutter run
+```
